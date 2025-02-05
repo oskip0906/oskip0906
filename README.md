@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJyanN5NTRwMTJoZ2Q5eGZieG82ZGR5ZmllcXFjMmdxMHd4aDNqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" width="10%"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJyanN5NTRwMTJoZ2Q5eGZieG82ZGR5ZmllcXFjMmdxMHd4aDNqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" width="150"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%2300AEEF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Oscar+%F0%9F%91%8B;CS+Student+at+UofT+🎓;ML+Enthusiast+🤖;Full-Stack+Developer+🌍;Problem+Solver+✅" alt="Headline" /> 
 
