@@ -8,11 +8,17 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 </div>
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=oskip0906&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="views"/>
+### 🐍 &nbsp; My Commit History:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oskip0906/oskip0906/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oskip0906/oskip0906/output/github-contribution-grid-snake.svg">
+</picture>
+
 <br><br>
 
 <div>
+  <img src="https://komarev.com/ghpvc/?username=oskip0906&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="views"/>
   <a href="https://www.linkedin.com/in/oscar-shenglong-pang/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -96,7 +102,6 @@
 ## 🛠️ &nbsp; Version Control & Tools
 <p>
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
     <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
