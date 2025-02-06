@@ -47,9 +47,6 @@
 -----
 
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1500&theme=radical">
-<br><br>
-
 <table>
   <tr>
     <td>
