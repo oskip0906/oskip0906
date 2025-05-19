@@ -33,18 +33,6 @@
   </a>
 </div>
 <br>
-  
-## 💡 What I’m Up To:
-
-🔭 Currently doing research at the UWaterloo **[CompLING Lab](https://compling-wat.com/index.html)** as a **[Vector Institute](https://vectorinstitute.ai/)** intern.
-
-🚀 Engineering a 3D rendering program for fine-tuning and evaluating **VLMs** for **spatial reasoning**.   
-
-📚 Currently learning about **LLMs**, **GPU computing**, and **Data Structures** (at school).  
-
-🤝 Always open to **collaborating** on exciting **projects**!
-
------
 
 <br>
 <table>
