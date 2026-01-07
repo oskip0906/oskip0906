@@ -34,19 +34,6 @@
 </div>
 <br>
 
-<br>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=oskip0906&theme=dracula&row=2&column=2&margin-w=20&margin-h=20" alt="Trophies"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskip0906&theme=transparent&hide_border=true&langs_count=6" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-<br>
-
 </div>
 
 <div align="center">
@@ -100,50 +87,7 @@
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 </p>
 
-<br>
-
 </div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-</div>
-
-<div align="center">
-
-## 🔥 **My Top Projects** 
-
-<br>
-
-<a href="https://github.com/compling-wat/FORG3D">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=compling-wat&repo=FORG3D&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/oskip0906/H5N1_Social_Media_Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oskip0906&repo=H5N1_Social_Media_Analysis&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/oskip0906/Scriptorium">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oskip0906&repo=Scriptorium&theme=tokyonight" />
-</a>
-
-<br>
-
-<a href="https://github.com/oskip0906/WelcoMate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oskip0906&repo=WelcoMate&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/oskip0906/Basic_Neural_Network">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oskip0906&repo=Basic_Neural_Network&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/marc-issism/TAAMproject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marc-issism&repo=TAAMproject&theme=tokyonight" />
-</a>
-
-</div>
-
-</div>
-<br>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
